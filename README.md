@@ -27,3 +27,7 @@ Upcoming Support:
 
 Helpful Tips:
   *Coming Soon!*
+
+Developer's Guide:
+  https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm
+  

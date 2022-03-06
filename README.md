@@ -12,7 +12,7 @@ Availible in 25,37,49,61 :
   - Device Select button next to knobs can be used to switch from Channel Rack -> Playlist -> Mixer
   - Jog buttons for previous/next for use in browser/Channel Rack/switching presets in FL Stock plug-ins like Flex etc.
   - Stop Solo Mute button for Soloing Channel
-  - Undo button does Undo
+  - Undo button undoes ;
   - Click activate/deactivates Metronome
 
 Avalible for 49,61 key versions:

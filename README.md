@@ -16,11 +16,14 @@ Availible in 25,37,49,61 :
   - Click activate/deactivates Metronome
 
 Avalible for 49,61 key versions:
-  - Master fader controls Master Volume with max ceiling at 100% volume (0dB) to avoid clipping/ruining speakers :)
+Faders:
+  The faders have a max ceiling at 100% volume (0dB) to avoid clipping/ruining speakers :)
+  - Master fader controls Master Volume
+  - First 2 faders linked to first two Mixer Channels
 
 Upcoming Support:
   - Switching to new channel enables Pitch Wheel for that channel with semitone range +-12
-  - First Fader Controls selected channel volume
+  - First knob (in pot mode 1) Controls selected channel volume
   - Switching to Mixer using Device Lock Mode enables first 8 faders to control 8 mixer channel volumes 
   - Quantize quick Quantizes selected channel
 

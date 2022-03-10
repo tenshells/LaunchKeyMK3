@@ -8,12 +8,12 @@ Note 49,61 keys provide extra functionality for 9 faders and 9 fader buttons.
 No support for Launchkey Mini mk3 yet, willing to work with someone who has a LK mini mk3 to add script.
 
 Availible in 25,37,49,61 :
-  - Transport: Play/Pause, Stop, Record, switch from Song Mode/Pattern Mode
+  - Transport: Play/Pause, Stop, Record, switch from Song Mode/Pattern Mode, Undo, Metronome(Click), 
   - Device Select button next to knobs can be used to switch from Channel Rack -> Playlist -> Mixer
-  - Jog buttons for previous/next for use in browser/Channel Rack/switching presets in FL Stock plug-ins like Flex etc.
+  - Jog buttons for previous/next for use in browser/Mixer/Channel Rack/switching presets in FL Stock plug-ins like Flex etc.
   - Stop Solo Mute button for Soloing Channel
-  - Undo button undoes ;
-  - Click activate/deactivates Metronome
+  - Pitch Wheel for selected channel with semitone range +-12
+  - First knob, Second Knob (in pot mode 1) Controls selected channel volume, pan
 
 Avalible for 49,61 key versions:
 Faders:
@@ -22,9 +22,9 @@ Faders:
   - First 2 faders linked to first two Mixer Channels
 
 Upcoming Support:
-  - Switching to new channel enables Pitch Wheel for that channel with semitone range +-12
-  - First knob (in pot mode 1) Controls selected channel volume
+  - Plugin Support for FLEX, 3xOsc, FL keys..
   - Switching to Mixer using Device Lock Mode enables first 8 faders to control 8 mixer channel volumes 
+  - Control, Alt, Shift support in Launchpad probably with Up, Down 
   - Quantize quick Quantizes selected channel
 
 
@@ -33,4 +33,9 @@ Helpful Tips:
 
 Developer's Guide:
   https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm
+  
+Special Thanks to:
+  https://github.com/rjuang for the pykeys module which will use Control, Shift, Alt so you can work independently of the keyboard in the future
+  https://github.com/MiguelGuthridge  for inspiring me in how much you can extend support for a midi controller! Check out his Universal Controller Script
+  Remo Viky for creating the first Launchkey MK3 script that i found, which taught me the basics of scripting
   

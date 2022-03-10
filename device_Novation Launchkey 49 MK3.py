@@ -1,6 +1,6 @@
 # name=Novation Launchkey 49 MK3
-#Script_Madeby_RemoViky
-#Instagram_@sbrmnyn.a
+#Script_Madeby_SheltonChiramal
+#Instagram_@tenshells
 
 import transport
 import midi

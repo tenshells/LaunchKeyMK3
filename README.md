@@ -39,7 +39,7 @@ Developer's Guide:
   https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm
   
 Special Thanks to:
-  https://github.com/rjuang for the pykeys module which will use Control, Shift, Alt so you can work independently of the keyboard in the future!
-  https://github.com/MiguelGuthridge  for inspiring me in how much you can extend support for a midi controller! Check out his Universal Controller Script!
-  Remo Viky for creating the first Launchkey MK3 script that i found, which taught me the basics of scripting
+  * https://github.com/rjuang for the pykeys module which will use Control, Shift, Alt so you can work independently of the keyboard in the future!
+  * https://github.com/MiguelGuthridge  for inspiring me in how much you can extend support for a midi controller! Check out his Universal Controller Script!
+  * Remo Viky for creating the first Launchkey MK3 script that i found, which taught me the basics of scripting
   
